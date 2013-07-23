@@ -1,0 +1,9 @@
+-----TO-DO List-----
+
+- Test the theme on mdpi devices
+- Test the theme on xxhdpi devices 
+- Test the theme on CM10 and AOKP-JB"4.1.2"
+- More testing for bugs etc..
+
+
+

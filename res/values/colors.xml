@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012-2013 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <!--CM.Elegance -->
+    <color name="background_dark">#ffcecece</color>
+    <color name="background_holo_dark">#ffcecece</color>
+    <color name="background_holo_light">#fff3f3f3</color>
+    <color name="background_light">#ffffffff</color>
+    <color name="black">#ff000000</color> 
+
+    <color name="bright_foreground_dark_disabled">#80ffffff</color>
+    <color name="bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+    <color name="config_defaultNotificationColor">#ff00ff00</color>
+    <color name="darker_gray">#ffaaaaaa</color>
+<!--    <color name="dim_foreground_dark_disabled">#80bebebe</color>-->
+    <color name="dim_foreground_dark_disabled">#ffffffff</color>
+<!--    <color name="dim_foreground_dark">#ffbebebe</color>-->
+    <color name="dim_foreground_dark">#ffffffff</color>
+    <color name="dim_foreground_dark_inverse_disabled">#80323232</color>
+    <color name="dim_foreground_dark_inverse">#ff323232</color>
+<!--    <color name="dim_foreground_disabled_holo_dark">#80bebebe</color>-->
+    <color name="dim_foreground_disabled_holo_dark">#ffffffff</color>
+    <color name="dim_foreground_disabled_holo_light">#80323232</color>
+<!--    <color name="dim_foreground_holo_dark">#ffbebebe</color>-->
+    <color name="dim_foreground_holo_dark">#ffffffff</color>
+    <color name="dim_foreground_holo_light">#ff323232</color>
+    <color name="dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+<!--    <color name="dim_foreground_inverse_disabled_holo_light">#80bebebe</color>-->
+    <color name="dim_foreground_inverse_disabled_holo_light">#80bebebe</color>
+    <color name="dim_foreground_inverse_holo_dark">#ff323232</color>
+<!--    <color name="dim_foreground_inverse_holo_light">#ffbebebe</color>-->
+    <color name="dim_foreground_inverse_holo_light">#ffbebebe</color>
+    <color name="dim_foreground_light_disabled">#80323232</color>
+    <color name="dim_foreground_light">#ff323232</color>
+    <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
+    <color name="dim_foreground_light_inverse">#ffbebebe</color>
+    <color name="facelock_spotlight_mask">#cc000000</color>
+    <color name="group_button_dialog_focused_holo_dark">#2699cc00</color>
+    <color name="group_button_dialog_focused_holo_light">#4699cc00</color>
+    <color name="group_button_dialog_pressed_holo_dark">#46c5c1ff</color>
+    <color name="group_button_dialog_pressed_holo_light">#ffffffff</color>
+    <color name="highlighted_text_dark">#9983cc39</color>
+    <color name="highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="highlighted_text_holo_light">#6633b5e5</color>
+    <color name="highlighted_text_light">#9983cc39</color>
+    <color name="hint_foreground_dark">#ff808080</color>
+    <color name="hint_foreground_holo_dark">#ff808080</color>
+    <color name="hint_foreground_holo_light">#ff808080</color>
+    <color name="hint_foreground_light">#ff808080</color>
+
+    <color name="holo_blue_bright">#ff00f6f6</color>
+    <color name="holo_blue_dark">#ff00d7d7</color>
+    <color name="holo_blue_light">#ff1ad2d4</color>
+
+    <color name="holo_green_dark">#ff669900</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_orange_dark">#ffff8800</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="holo_purple">#ffaa66cc</color>
+    <color name="holo_red_dark">#ffcc0000</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <color name="keyguard_text_color_decline">#fffe0a5a</color>
+    <color name="keyguard_text_color_normal">#ffffffff</color>
+    <color name="keyguard_text_color_soundoff">#ffffffff</color>
+    <color name="keyguard_text_color_soundon">#ffe69310</color>
+    <color name="keyguard_text_color_unlock">#ffa7d84c</color>
+    <color name="legacy_long_pressed_highlight">#ffffffff</color>
+    <color name="legacy_pressed_highlight">#fffeaa0c</color>
+    <color name="legacy_selected_highlight">#fff17a0a</color>
+    <color name="lighter_gray">#ffdddddd</color>
+    <color name="link_text_dark">#ff5c5cff</color>
+    <color name="link_text_holo_dark">#ff5c5cff</color>
+    <color name="link_text_holo_light">#ff0000ee</color>
+    <color name="link_text_light">#ff0000ee</color>
+    <color name="lockscreen_clock_am_pm">#ffffffff</color>
+    <color name="lockscreen_clock_background">#ffffffff</color>
+    <color name="lockscreen_clock_foreground">#ffffffff</color>
+    <color name="lockscreen_owner_info">#ff9a9a9a</color>
+    <color name="perms_dangerous_grp_color">#ff33b5e5</color>
+    <color name="perms_dangerous_perm_color">#ff33b5e5</color>
+    <color name="safe_mode_text">#80ffffff</color>
+    <color name="search_url_text_normal">#ff7fa87f</color>
+    <color name="shadow">#cc222222</color>
+    <color name="suggestion_highlight_text">#ff177bbd</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffffff</color>
+
+    <item type="color" name="bright_foreground_dark">@color/background_light</item>
+    <item type="color" name="bright_foreground_dark_inverse">@color/bright_foreground_light</item>
+    <item type="color" name="bright_foreground_holo_dark">@color/background_holo_light</item>
+    <item type="color" name="bright_foreground_holo_light">@color/background_holo_dark</item>
+    <item type="color" name="bright_foreground_inverse_holo_dark">@color/bright_foreground_holo_light</item>
+    <item type="color" name="bright_foreground_inverse_holo_light">@color/bright_foreground_holo_dark</item>
+    <item type="color" name="bright_foreground_light">@color/background_dark</item>
+    <item type="color" name="bright_foreground_light_inverse">@color/bright_foreground_dark</item>
+    <item type="color" name="search_url_text_pressed">@color/white</item>
+    <item type="color" name="search_url_text_selected">@color/white</item>
+    <item type="color" name="search_widget_corpus_item_background">@color/lighter_gray</item>
+    <item type="color" name="sliding_tab_text_color_active">@color/black</item>
+    <item type="color" name="sliding_tab_text_color_shadow">@color/black</item> 
+
+    <!-- Calculator -->
+<!--    <color name="magic_flame">#00FFFFFF</color>-->
+    <color name="magic_flame">#ff000000</color>
+    <color name="button_text">#ff000000</color>
+    <color name="button_hint_text">#474747</color>
+    <color name="pressed_color">#00FFFF</color>
+    <color name="history_input">#E6E6E6</color>
+    <color name="history_result">#999999</color>
+    <color name="cal_background">#ff404040</color>
+    <color name="graph_color">#31B6E7</color>
+
+    <!-- Systemui -->
+    <color name="notification_panel_solid_background">#ff000000</color>
+    <color name="status_bar_recents_app_label_color">#ffffffff</color>
+    <color name="notification_list_shadow_top">#80000000</color>
+    <color name="status_bar_quick_setting_indicator_on">#00f6f6</color>
+    <color name="status_bar_quick_setting_indicator_off">#ff040404</color>
+
+    <!-- Browser -->
+    <color name="qc_normal">#e0c1c1c1</color>
+    <color name="qc_selected">#00FFFF</color>
+    <color name="qc_tab_nr">#00FFFF</color>
+
+    <!-- Contacts -->
+    <color name="con_quickcontact_list_divider">#00FFFF</color>
+    <color name="con_quickcontact_list_background">#ff000000</color>
+    <color name="con_white_text">#ffffffff</color>
+    <color name="con_quickcontact_tab_indicator">#00FFFF</color>
+    <color name="con_people_app_theme_color">#00FFFF</color>
+    <color name="con_background_primary">@drawable/background</color>
+    <color name="con_background_social_updates">@drawable/background</color>
+    <color name="con_account_container">#00000000</color>
+
+    <!-- Mms -->
+    <color name="background">#ffffffff</color>
+
+</resources>

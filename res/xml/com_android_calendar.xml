@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012-2013 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resource-redirections>
+    <!-- Colors -->
+    <!-- Background Color of present/future events in agenda view  -->
+    <item  name="color/agenda_day_bar_background_color">#ff000000</item>
+
+    <item  name="color/pressed">#ff00ddff</item>
+    <item  name="color/calendar_event_text_color">#ff000000</item>
+
+    <!-- Drawable -->
+    <item name="drawable/calendar_widget_preview">@drawable/com_android_calendar_calendar_widget_preview</item>
+    <item name="drawable/calname_bottom_select_underselect_pressed_holo_light">@drawable/com_android_calendar_calname_bottom_select_underselect_pressed_holo_light</item>
+    <item name="drawable/calname_bottom_select_underunselected_pressed_holo_light">@drawable/com_android_calendar_calname_bottom_select_underunselected_pressed_holo_light</item>
+    <item name="drawable/calname_bottom_unselected_pressed_holo_light">@drawable/com_android_calendar_calname_bottom_unselected_pressed_holo_light</item>
+    <item name="drawable/calname_bottom_unselected_underselect_pressed_holo_light">@drawable/com_android_calendar_calname_bottom_unselected_underselect_pressed_holo_light</item>
+    <item name="drawable/calname_select_underselect_pressed_holo_light">@drawable/com_android_calendar_calname_select_underselect_pressed_holo_light</item>
+    <item name="drawable/calname_select_underunselected_pressed_holo_light">@drawable/com_android_calendar_calname_select_underunselected_pressed_holo_light</item>
+    <item name="drawable/calname_unselected_pressed_holo_light">@drawable/com_android_calendar_calname_unselected_pressed_holo_light</item>
+    <item name="drawable/calname_unselected_underselect_pressed_holo_light">@drawable/com_android_calendar_calname_unselected_underselect_pressed_holo_light</item>
+    <item name="drawable/cal_widget_bg">@drawable/com_android_calendar_cal_widget_bg</item>
+    <item name="drawable/cal_widget_date_bg">@drawable/com_android_calendar_cal_widget_date_bg</item>
+    <item name="drawable/chip_background_selected">@drawable/com_android_calendar_chip_background_selected</item>
+    <item name="drawable/header_bg_cal_widget_focused_holo">@drawable/com_android_calendar_header_bg_cal_widget_focused_holo</item>
+    <item name="drawable/header_bg_cal_widget_normal_holo">@drawable/com_android_calendar_header_bg_cal_widget_normal_holo</item>
+    <item name="drawable/header_bg_cal_widget_pressed_holo">@drawable/com_android_calendar_header_bg_cal_widget_pressed_holo</item>
+    <item name="drawable/list_focused_holo">@drawable/com_android_calendar_list_focused_holo</item>
+    <item name="drawable/list_multi_left_focused_holo">@drawable/com_android_calendar_list_multi_left_focused_holo</item>
+    <item name="drawable/list_multi_left_pressed_holo">@drawable/com_android_calendar_list_multi_left_pressed_holo</item>
+    <item name="drawable/list_pressed_holo">@drawable/com_android_calendar_list_pressed_holo</item>
+    <item name="mipmap/ic_launcher_calendar">@drawable/com_android_calendar_ic_launcher_calendar</item>
+    <item name="drawable/ic_contact_picture">@drawable/com_android_calendar_ic_contact_picture</item>
+</resource-redirections>
