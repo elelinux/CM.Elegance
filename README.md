@@ -13,7 +13,7 @@
      limitations under the License.
 -->
 
-Theme CM.Elegance for CM-10,CM-10.1,CM-10.2AOKP-4.1.2 and AOKP-4.2.2
+Theme CM.Elegance for CM-10,CM-10.1,CM-10.2,AOKP-4.1.2 and AOKP-4.2.2
 
 This theme supports mdpi.hdpi,xhdpi and xxhdpi
 
