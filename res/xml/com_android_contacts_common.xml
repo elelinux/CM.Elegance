@@ -25,7 +25,7 @@
     <!-- drawable.xml -->
     <item name="drawable/list_item_activated_background">@drawable/com_android_contacts_common_list_item_activated_background</item>
 
-    <!-- Styel -->
+    <!-- Style -->
     <item name="style/ContactListSeparatorTextViewStyle">@style/ContactListSeparatorTextViewStyle</item>
     <item name="style/ListViewStyle">@style/ListViewStyle</item>
     <item name="style/ContactListFilterTheme">@style/ContactListFilterTheme</item>

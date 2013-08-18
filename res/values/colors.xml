@@ -136,14 +136,14 @@
     <color name="qc_tab_nr">#00FFFF</color>
 
     <!-- Contacts -->
-    <color name="detail_update_tab_text_color">#ffffffff</color>
-    <color name="section_header_text_color">#00FFFF</color>
-    <color name="con_quickcontact_list_divider">#ffe2e2e2</color>
-    <color name="con_quickcontact_list_background">#ff000000</color>
-    <color name="con_quickcontact_tab_indicator">#00FFFF</color>
+    <color name="con_account_container">#00000000</color>
     <color name="con_background_primary">@drawable/background</color>
     <color name="con_background_social_updates">@drawable/background</color>
     <color name="con_people_app_theme_color">#00FFFF</color>
+    <color name="con_quickcontact_list_background">#ff000000</color>
+    <color name="con_quickcontact_list_divider">#ffe2e2e2</color>
+    <color name="con_quickcontact_tab_indicator">#00FFFF</color>
+    <color name="con_white_text">#ffffffff</color>
 
     <!-- Dialer -->
     <color name="dial_smartdial_name_primary_text_color">#ff00f6f6</color>

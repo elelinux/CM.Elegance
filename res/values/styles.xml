@@ -131,7 +131,7 @@
         <item name="android:textColor">@color/con_people_app_theme_color</item>
         <item name="android:ellipsize">end</item>
         <item name="android:gravity">center_vertical</item>
-        <item name="android:background">@drawable/com_android_contacts_list_section_divider_holo_custom</item>
+        <item name="android:background">@drawable/com_android_contacts_common_list_section_divider_holo_custom</item>
         <item name="android:paddingLeft">8.0dip</item>
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">wrap_content</item>
