@@ -28,16 +28,17 @@
     <color name="bright_foreground_light_disabled">#80000000</color>
     <color name="config_defaultNotificationColor">#ff00ff00</color>
     <color name="darker_gray">#ffaaaaaa</color>
-    <color name="dim_foreground_dark_disabled">#80bebebe</color>
-    <color name="dim_foreground_dark">#ffbebebe</color>
+<!--    <color name="dim_foreground_dark_disabled">#80bebebe</color>-->
+    <color name="dim_foreground_dark_disabled">#ffffffff</color>
+<!--    <color name="dim_foreground_dark">#ffbebebe</color>-->
+    <color name="dim_foreground_dark">#ffffffff</color>
     <color name="dim_foreground_dark_inverse_disabled">#80323232</color>
     <color name="dim_foreground_dark_inverse">#ff323232</color>
-    <color name="dim_foreground_disabled_holo_dark">#80bebebe</color>
+<!--    <color name="dim_foreground_disabled_holo_dark">#80bebebe</color>-->
+    <color name="dim_foreground_disabled_holo_dark">#ffffffff</color>
     <color name="dim_foreground_disabled_holo_light">#80323232</color>
-
-    <!-- Header text color -->
+<!--    <color name="dim_foreground_holo_dark">#ffbebebe</color>-->
     <color name="dim_foreground_holo_dark">#ffffffff</color>
-
     <color name="dim_foreground_holo_light">#ff323232</color>
     <color name="dim_foreground_inverse_disabled_holo_dark">#80323232</color>
     <color name="dim_foreground_inverse_disabled_holo_light">#80bebebe</color>
@@ -136,14 +137,14 @@
     <color name="qc_tab_nr">#00FFFF</color>
 
     <!-- Contacts -->
-    <color name="con_account_container">#00000000</color>
+    <color name="con_quickcontact_list_divider">#00FFFF</color>
+    <color name="con_quickcontact_list_background">#ff000000</color>
+    <color name="con_white_text">#ffffffff</color>
+    <color name="con_quickcontact_tab_indicator">#00FFFF</color>
+    <color name="con_people_app_theme_color">#00FFFF</color>
     <color name="con_background_primary">@drawable/background</color>
     <color name="con_background_social_updates">@drawable/background</color>
-    <color name="con_people_app_theme_color">#00FFFF</color>
-    <color name="con_quickcontact_list_background">#ff000000</color>
-    <color name="con_quickcontact_list_divider">#ffe2e2e2</color>
-    <color name="con_quickcontact_tab_indicator">#00FFFF</color>
-    <color name="con_white_text">#ffffffff</color>
+    <color name="con_account_container">#00000000</color>
 
     <!-- Dialer -->
     <color name="dial_smartdial_name_primary_text_color">#ff00f6f6</color>
@@ -163,7 +164,6 @@
     <color name="phone_incall_secondary_info_background">#8000f6f6</color> <!-- semitransparent cyan grey -->
     <color name="phone_manage_conference_secondary_text_color">#888888</color>
     <color name="phone_on_hold_dim_effect">#cc000000</color>
-    <color name="phone_people_app_theme_color">#00FFFF</color>
 
     <!-- Mms -->
     <color name="background">#ffffffff</color>
